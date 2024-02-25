@@ -1,2 +1,2 @@
-# Kar's Games offical website code
+# KarBot official website code
 ## We are open source!
